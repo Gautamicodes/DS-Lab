@@ -1,0 +1,5 @@
+# Ignore all .exe files
+*.exe
+
+# Ignore all .class files (if you ever have Java files)
+*.class
